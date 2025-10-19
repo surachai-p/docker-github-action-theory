@@ -1,7 +1,5 @@
 # สรุปเนื้อหา CI/CD with GitHub Actions
 
-> **เอกสารสรุปสำหรับการเตรียมสอบและทำแลปทดลอง CI/CD**  
-> รวบรวมจากไฟล์ 01-introduction.md ถึง 12-examples.md
 
 ---
 
@@ -3598,36 +3596,3 @@ jobs:
 - [Actions Runner Images](https://github.com/actions/runner-images)
 
 ---
-
-## 🎓 สรุปท้ายสุด
-
-### สิ่งที่ต้องเข้าใจ
-
-1. **Workflow Structure**: name, on, jobs, steps
-2. **Triggers**: push, PR, schedule, manual
-3. **Jobs**: parallel/sequential, dependencies, outputs
-4. **Steps**: run commands, use actions
-5. **Matrix**: multi-version/platform testing
-6. **Secrets**: secure credential management
-7. **Caching**: optimize performance
-8. **Conditions**: control workflow logic
-9. **Best Practices**: security, performance, organization
-
-### เป้าหมายการเรียนรู้
-
-- ✅ เข้าใจ CI/CD concepts
-- ✅ สร้าง workflow พื้นฐานได้
-- ✅ ใช้ actions จาก marketplace
-- ✅ จัดการ secrets อย่างปลอดภัย
-- ✅ Optimize workflow performance
-- ✅ Deploy applications อัตโนมัติ
-- ✅ Debug และแก้ไขปัญหาได้
-
-### ขั้นตอนต่อไป
-
-1. ✅ ทำ lab ตามไฟล์ที่กำหนด
-2. ✅ ทดลองสร้าง workflow เอง
-3. ✅ ศึกษา examples จากโปรเจกต์จริง
-4. ✅ ปรับใช้กับโปรเจกต์ของตัวเอง
-
-**Good luck กับการทำข้อสอบและ Lab! 🚀**
